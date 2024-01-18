@@ -3,4 +3,8 @@ Requirements-pip
 
 Streamlit
 llama-index
-open ai
+openai
+
+
+Run the demo using 
+Streamlit run app.py
