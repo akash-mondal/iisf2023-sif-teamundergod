@@ -3,7 +3,6 @@ import requests
 import base64
 import os
 import llama_index
-from transformers import pipeline
 from audio_recorder_streamlit import audio_recorder
 from openai import OpenAI
 from llama_index import VectorStoreIndex, SimpleDirectoryReader
